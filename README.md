@@ -18,14 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Desktop version screenshot](file:///C:/Users/liart/code/frontend%20mentor/newbie%20challenge%201/Workflow/Resources/images/Finished%20qr%20code%20challenge%20desktop%20version.png)
-
-[Phone version screenshot](file:///C:/Users/liart/code/frontend%20mentor/newbie%20challenge%201/Workflow/Resources/images/Screenshot%202023-01-12%20114952.png)
+Couldnt figure out how to uplod screenshot
 
 ### Links
 
-- Solution URL: [Solution URL](file:///C:/Users/liart/code/frontend%20mentor/newbie%20challenge%201/Workflow/index.html)
-
+Couldnt figure out how to deploy a site for this project or link to the final product
 
 ## My process
 
